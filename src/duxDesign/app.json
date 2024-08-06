@@ -1,0 +1,9 @@
+{
+  "name": "duxDesign",
+  "description": "duxui设计器",
+  "version": "1.0.0",
+  "dependencies": [
+    "duxuiDesign",
+    "design"
+  ]
+}
